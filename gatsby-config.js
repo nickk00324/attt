@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Nick IS cool`,
-    description: `the 4th version of my portfolio site`,
+    title: `Art Talk Talk Talk`,
+    description: `a fun art talk show`,
     author: `nickk`,
   },
-  pathPrefix: "/attt",
+  pathPrefix: "attt",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -37,7 +37,7 @@ module.exports = {
         background_color: `#ff64ae`,
         theme_color: `#ff64ae`,
         display: `minimal-ui`,
-        icon: `src/images/nickk.png`, // This path is relative to the root of the site.
+        icon: `src/images/attt.png`, // This path is relative to the root of the site.
       },
     },
     "gatsby-plugin-styled-components",
