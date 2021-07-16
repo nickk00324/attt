@@ -2,8 +2,6 @@ import React from "react"
 import styled from "styled-components"
 import Link from "gatsby-plugin-transition-link/AniLink"
 import Popup from "reactjs-popup"
-import hamburger from "../images/hamburger.svg"
-import cross from "../images/cross.svg"
 import { useSpring, animated } from "react-spring"
 
 const Container = styled.header`
@@ -16,9 +14,12 @@ const Container = styled.header`
 
 const Logo = styled.div`
   color: ${props => props.theme.blue};
-  font-size: 48px;
+  font-size: 72px;
   padding-right: 20px;
   text-transform: uppercase;
+  font-weight: 700;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: red;
 
   @media only screen and (max-width: 1000px) {
     font-size: 36px;
@@ -34,6 +35,14 @@ const Nav = styled.nav`
 
   @media only screen and (max-width: 1000px) {
     width: 230px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    flex-direction: column;
+    align-items: flex-end;
+    a {
+      padding: 5px 0;
+    }
   }
   /* @media only screen and (max-width: ${props => props.theme.mobileSize}) {
     display: none;
@@ -117,26 +126,6 @@ const Header = () => {
           about
         </Link>
       </Nav>
-      <StyledPopup
-        trigger={open => (
-          <BurgerButton>
-            {open ? <img src={cross} /> : <img src={hamburger} />}
-          </BurgerButton>
-        )}
-        position="bottom right"
-      >
-        <Menu>
-          <Link fade to="/work">
-            work
-          </Link>
-          <Link fade to="/about">
-            about
-          </Link>
-          <Link fade to="/contact">
-            contact
-          </Link>
-        </Menu>
-      </StyledPopup>
     </Container>
   )
 }

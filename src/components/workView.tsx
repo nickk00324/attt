@@ -51,6 +51,13 @@ const BioImage = styled.div`
     text-align: center;
     width: 100%;
   }
+
+  @media only screen and (max-width: 450px) {
+    .gatsby-image-wrapper {
+      width: 325px !important;
+      height: 325px !important;
+    }
+  }
 `
 const PlayerContainer = styled.div`
   position: relative;
@@ -77,9 +84,10 @@ const PlayerContainer = styled.div`
 `
 
 const Starring = styled.div`
-  animation-duration: 0.1s;
+  animation-duration: 2s;
   animation-name: blink;
   animation-iteration-count: infinite;
+  animation-direction: alternate;
   transform-origin: center;
   height: 100px;
 
@@ -92,7 +100,7 @@ const Starring = styled.div`
   }
   @keyframes blink {
     from {
-      opacity: 0;
+      opacity: 0.5;
       font-size: 14px;
     }
 
@@ -164,7 +172,7 @@ const Person = (props: PersonProps) => {
       </div>
       <div className={"Links"}>
         <a href={website}>website</a>
-        <a href={ig}>ig</a>
+        {ig.length !== 0 && <a href={ig}>ig</a>}
       </div>
     </PersonContainer>
   )

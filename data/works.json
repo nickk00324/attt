@@ -1,9 +1,9 @@
 [
   {
-    "title": "Episode 1",
+    "title": "s01e01",
     "slug": "1",
-    "url": "https://vimeo.com/573771362/d74a9505c2",
-    "image": "./elijah-ford.gif",
+    "url": "https://vimeo.com/574770087",
+    "image": "./e1_trulee.png",
     "starring": {
       "name": "Trulee Hall",
       "photo": "./images/episode-1/trulee_hall.jpg",
@@ -42,6 +42,205 @@
         ],
         "website": "https://www.minjung-art.com",
         "ig": "https://instagram.com/minjungart"
+      }
+    ]
+  },
+  {
+    "title": "s01e02",
+    "slug": "2",
+    "url": "https://vimeo.com/566426557",
+    "image": "./e2_andres.png",
+    "starring": {
+      "name": "Andres Payan Estrada",
+      "photo": "./images/episode-2/andres.jpg",
+      "bio": [
+        "Born in Ciudad Juarez, Chihuahua, Mexico, Andres Payan Estrada currently lives and works in Los Angeles. An artist and curator whose practice focuses on issues revolving around contemporary craft along with material and object practices with a focus on ceramics. He is currently the curator of public engagement at Craft Contemporary and recently served as special visiting art faculty at the California Institute of the Arts."
+      ],
+      "website": "http://www.andrespayan.com/",
+      "ig": "https://instagram.com/andres_payan"
+    },
+    "also_starring": [
+      {
+        "name": "Emily Sarten",
+        "photo": "./images/episode-2/emily_sarten.jpg",
+        "bio": [
+          "Emily Sarten (she/her, b.1988) is originally from the Sonoran desert region of southwest Arizona. She earned a BFA in Photography and a minor in Film and Media production from Herberger Institute for Design and the Arts at Arizona State University in 2019 where her work explored the intersection of technology and memory. Sarten is currently an MFA candidate at the University of Nevada, Las Vegas where her practice has evolved to include sculpture and installation for video and performance. Her hobbies include bad movies, good food, and talking to her betta fish."
+        ],
+        "website": "www.emilysarten.weebly.com",
+        "ig": "https://instagram.com/emilysarten"
+      },
+      {
+        "name": "Sapira Cheuk",
+        "photo": "./images/episode-2/sapira_cheuk.jpg",
+        "bio": [
+          "Sapira Cheuk is an ink painter and installation artist interested in proprioception, ways of knowing through the body, and how these modes of knowledge reflect or internalize external experiences. Her practice incorporates traditional Chinese Sumi painting techniques and geometric elements to depict the complexity of the Subject, agency, and corporeality, while building an alternative narrative of not only bodily experiences, but also intersubjective relations. Cheuk has exhibited in numerous exhibitions, including those at the Institute of Contemporary Art Los Angeles, Orange County Contemporary Art Center, Masur Museum, The Netura Museum, Culver Center for the Arts, Riverside Art Museum, Rochester Contemporary Art Museum, Wignall Museum of Contemporary Art, Chaffey Museum of Art, and The Robert & Frances Fullerton Museum of Art. She currently works as an instructor for the University of Nevada, Las Vegas and received her BA at University of California, Riverside and MFA from California State University, San Bernardino."
+        ],
+        "website": "https://sappycheuk.wixsite.com/works",
+        "ig": "https://instagram.com/sappycheuk"
+      }
+    ]
+  },
+  {
+    "title": "s01e03",
+    "slug": "3",
+    "url": "https://vimeo.com/566426652",
+    "image": "./e3_pau.png",
+    "starring": {
+      "name": "Pau Pescador",
+      "photo": "./images/episode-3/pau_pescador.jpg",
+      "bio": [
+        "Pau Pescador (b. 1983) is a trans-nonbinary artist who works in film, photography, and performance. Select exhibitions and screenings include Biquini Wax, Mexico City; Deslave, Tijuana;  LADRÓNgalería, Mexico City; UV Estudios, Buenos Aires; 5 Car Garage; 18th Street Art Center; Armory Center for the Arts, Pasadena; Angels Gate Cultural Center, San Pedro; Human Resources; Los Angeles County Museum of Art; the Main Museum; The Pit; LAND at The Gamble House; Park View;  X-tra Online; all within Los Angeles County. Select performances include Guggenheim Gallery at Chapman University, Orange; LADRÓNgalería, Mexico City; Performa New York; University of California, BerkeleyDurham Studio Theater; Los Angeles Contemporary Archives; Machine Projects; PAM Residencies; Hammer Museum (with KCHUNG TV); REDCAT; and ForYourArt at 6020 Wilshire Blvd. Their first collection of writing, CRUSHES: A NOVELLA, was published by Econo Textual Objects in Spring 2017. They received a BA from the University of Southern California and an MFA from the University of California, Irvine."
+      ],
+      "website": "http://paulpescador.com/",
+      "ig": "https://instagram.com/pau_s_pescador"
+    },
+    "also_starring": [
+      {
+        "name": "Erin Drew",
+        "photo": "./images/episode-3/erin_drew.jpg",
+        "bio": [
+          "Erin Drew is an interdisciplinary artist, organizer, and educator from Indianapolis, Indiana. Her projects, including a monthly art-centric talk show, Putty, have functioned as conceptual alternatives to and sub-textual critiques of the art market and cultural and academic institutions. Her work maintains a fascination with DIY processes and aesthetics, class, and the line between education and entertainment. She has exhibited at the Indianapolis Museum of Contemporary Art, Herron School of Art and Design, University of Toledo, Indiana University-Purdue, the Carnegie at Covington, and in artist-run galleries, cabarets, and bars. She earned her BFA in Sculpture from Herron School of Art and Design."
+        ],
+        "website": "https://erinkdrew.com/",
+        "ig": "https://instagram.com/museum_putty"
+      },
+      {
+        "name": "Michael Fong",
+        "photo": "./images/episode-3/michael_fong.jpg",
+        "bio": [
+          "Born and raised in Las Vegas, Michael Fong is a graduate of the Graphic Design and Sculpture programs of UNLV. After earning his Master in Sculpture from Syracuse University, Michael helped develop the digital fabrications courses and facilities at Syracuse University in the Design and Art schools. After two years of teaching and working in Syracuse, he has returned to UNLV to join the Art Department and aims to establish a strong foundation for digital fabrication technology and research on campus."
+        ],
+        "website": "https://vimeo.com/michaelfong",
+        "ig": "https://instagram.com/mr.mfong87"
+      },
+      {
+        "name": "Wendy Kveck",
+        "photo": "./images/episode-3/wendy_kveck.jpg",
+        "bio": [
+          "Wendy Kveck is an artist, arts educator, curator, and community organizer based in Las Vegas, Nevada. Her work confronts popular images and historical depictions of women as cultural markers through the mediums of painting, drawing, collage and performance. Informed by a feminist practice, her collaborative performances activate social perceptions and dialogue around vulnerability, chaos, agency and transformation. She is the founder of Settlers + Nomads, a collaborative curatorial project highlighting contemporary art and artists with ties to Las Vegas, Nevada. Recent projects include New Monuments for a Future Las Vegas and Water Slipping Through Our Fingers: An Art Memoriam to Lives Impacted by Police Violence at West Las Vegas Library. Presented by Families United 4 Justice Las Vegas, Forced Trajectory Project and Desert Arts Action Coalition, the exhibition holds space for and amplifies the voices of those who have survived or lost loved ones to police violence."
+        ],
+        "website": "http://wendykveck.com/",
+        "ig": "https://instagram.com/wendykveck"
+      }
+    ]
+  },
+  {
+    "title": "s01e04",
+    "slug": "4",
+    "url": "https://vimeo.com/566426606",
+    "image": "./e4_jmoon.png",
+    "starring": {
+      "name": "Jennifer Moon",
+      "photo": "./images/episode-4/jmoon.png",
+      "bio": [
+        "Jennifer Moon (b. 1973, Lafayette, Indiana; lives and works in Los Angeles) is a polydisciplinamorous life-artist whose work investigates the co-production of ethico-onto-epistem-ologies via organizing systems (social systems, institutional structures, power relations, scientific theories, emotional frameworks, etc.) and how these various systems are entangled, co-constituted, performed, and perpetuated through bodies (human, nonhuman, material, immaterial). Drawing from queer life, science, self-help, popular culture, the extremely personal, and fantasy, Moon’s work mobilizes possibilities to reconfigure our relationship to power, to reignite the social and political imaginaries, and to stimulate change beyond binaries, hierarchies, and capital.",
+        "1“The neologism polydisciplinamory takes interdisciplinarity's transgressive charge (to always be pushing at, and defamiliarizing, the limits of disciplinary boundaries) and brings it together with the insights of theoretical polyamory” (p. 60). Natalie Loveless, “Polydisciplinamory,” How to Make Art at the End of the World: A Manifesto for Research-Creation, Duke University Press, 2019.",
+        "2Ethico-onto-epistem-ology is a quantum entanglement concept by queer feminist theorist and physicist Karen Barad that insists on the inseparability and simultaneous co-production of the nature of being (ontology), knowing (epistemology), and doing (ethics). Karen Bard, Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning, Duke University Press, 2007."
+      ],
+      "website": "http://jmoon.net/home.html",
+      "ig": "https://instagram.com/revolutionordeath"
+    },
+    "also_starring": [
+      {
+        "name": "Aaron Cowan",
+        "photo": "./images/episode-4/aaron_cowan.jpg",
+        "bio": [
+          "Aaron Cowan earned his BFA from the University of Tennessee, Chattanooga. An artist and arts organizer, he co-founded and directed the visiting artist residency for ARC in Chattanooga. His research, mixed media sculptures, performance, and videos explore psychology, play, labor, desire, masculinity, and violence. He scouts thrift stores and junk yards, hunting for objects and materials that carry an aura and history, reclaiming car parts, broken tools, and worn sports equipment and making them into softer expressions as actions against the hierarchies of gender."
+        ],
+        "website": "http://www.aaroncowan.net/",
+        "ig": "https://instagram.com/aaaartist"
+      },
+      {
+        "name": "Laura Brennan",
+        "photo": "./images/episode-4/laura.jpg",
+        "bio": [
+          "Laura received her MFA from the University of Nevada, Las Vegas in 2018 and her BA from Lycoming College in 2015. Having studied both art and biology as an undergraduate, Laura’s work intertwines traditional and alternative process photography with scientific themes such as memory loss and memory recall. Her work addresses the complexities of photography as a representation of memory.",
+          "A native of Ashland, Pa, Laura currently resides in Las Vegas where she teaches at the University of Nevada, Las Vegas."
+        ],
+        "website": "https://www.laurabrennanphotography.com/",
+        "ig": "https://instagram.com/laura.brennan"
+      },
+      {
+        "name": "Kay Leigh Farley",
+        "photo": "./images/episode-4/kayleigh_farley.jpg",
+        "bio": [
+          "Kay Leigh Farley is a new media artist based out of Las Vegas whose work utilizes video, 3D modeling, and narrative. Born in Houston, Texas, Farley earned her Bachelor of Science from Texas A&M University and her MFA from the University of Tennessee, Knoxville. Farley has exhibited and screened work at venues including The Wrong Biennale, The Knoxville Museum of Art, and Co-Prosperity Sphere, and is in collections in the United States and Brazil."
+        ],
+        "website": "http://kayleighfarley.com/",
+        "ig": "https://instagram.com/kayleigh_farley"
+      }
+    ]
+  },
+  {
+    "title": "s01e05",
+    "slug": "5",
+    "url": "https://vimeo.com/566426771",
+    "image": "./e5_aurora.png",
+    "starring": {
+      "name": "Aurora Tang",
+      "photo": "./images/episode-5/aurora_tang.jpeg",
+      "bio": [
+        "Aurora Tang is a curator and researcher based in Los Angeles. Since 2009 she has been a program manager at The Center for Land Use Interpretation, a non-profit research organization involved in exploring and understanding contemporary landscape issues in the United States. From 2011–15 she was managing director of High Desert Test Sites. She has taught at Otis College of Art and Design and the University of Southern California, and served on the board of directors of Common Field from 2017–20. She is a Fall 2020 Andy Warhol Foundation for the Visual Arts Curatorial Research Fellow."
+      ],
+      "website": "http://www.auroratang.net/",
+      "ig": "https://instagram.com/aurora__tang"
+    },
+    "also_starring": [
+      {
+        "name": "John McVay",
+        "photo": "./images/episode-5/john_mcvay.jpg",
+        "bio": [
+          "John McVay works between printmaking, collage, and more recently, collaborative sound and video installations. He thinks of the Las Vegas Strip as a richly textured and collaged landscape. He’s pursuing his MFA at UNLV to research Las Vegas, contemporary consumerism, American culture, ideology, nostalgia, and the spaces between high and low culture. He aims to push the boundaries of traditional printmaking techniques, bring printmaking into contact with sculptural installation, and combine sound and video elements in order to create immersive experiences. He earned a BFA in Printmaking with a minor in Art History from Arizona State University."
+        ],
+        "website": "https://www.johnmcvayart.com/",
+        "ig": "https://instagram.com/punkboy7667"
+      },
+      {
+        "name": "Erik Beehn",
+        "photo": "./images/episode-5/erik_beehn.jpg",
+        "bio": [
+          "Erik Beehn is an artist and educator working out of Las Vegas, Nevada. Receiving his MFA from The School of The Art Institute of Chicago, his practice spans across installation, painting and object making, with an interest in material exploration. Beehn has held faculty positions at Columbia College Chicago, School of the Art Institute of Chicago, and currently the University of Nevada Las Vegas where he teaches printmaking. Beehn is the founder and director of Test Site Projects, a fine art publishing house located in Las Vegas."
+        ],
+        "website": "https://www.erikbeehn.com/",
+        "ig": "https://instagram.com/hebigfrijole"
+      }
+    ]
+  },
+  {
+    "title": "s01e06",
+    "slug": "6",
+    "url": "https://vimeo.com/566426879",
+    "image": "./e6_alicia.png",
+    "starring": {
+      "name": "Alicia Piller",
+      "photo": "./images/episode-6/alicia.png",
+      "bio": [
+        "Los Angeles based artist, Alicia Piller was born and raised in Chicago and received her Bachelor's in both Fine Arts (Painting) & Anthropology from Rutgers University in 2004. While working in the fashion industry; living a decade in NYC and three and a half years in Santa Fe, NM, Piller cultivated her distinctive sculptural voice. Continuing to expand her artistic practice, Alicia completed her MFA focused on sculpture and installation from Calarts in May of 2019.",
+        "As a method to locate the root of human histories, Alicia merges the new and discarded, experimenting with of a wide range of materials to construct large scale works that mimic forms of cellular biology. Piller envisions historical traumas, both political and environmental, through the lens of a microscope. Piller’s mixed media practice is as much about materiality as it is about content. Attempting to reconcile questions about the current state of our times; she works on a macro/micro level, breathing life into materials that have been removed from their ‘natural’ environment. Manipulating things like resin and latex balloons (stemming from her background as a clown); each work becomes a biological unfolding of time, examining the energy around wounds societies have inflicted upon themselves and others.",
+        "Alicia’s work is a part of the Hammer Permanent Collection, Glendale College Collection, Forrest Kirk Collection, & the Pam Royalle Collection. Her sculptural work was featured on the cover of Full Blede Magazine, Issue 10 (Fall 2019) and drawings of sculptural work in the Lumina Journal (Sarah Lawrence College) (Jan 2020)."
+      ],
+      "website": "https://www.aliciapiller.com/",
+      "ig": "https://instagram.com/alicia_piller"
+    },
+    "also_starring": [
+      {
+        "name": "Lyssa Park",
+        "photo": "./images/episode-6/lyssa.jpg",
+        "bio": [
+          "Lyssa Park explores narrative through illustration, comics, books and hand-crafted dolls, using a variety of approaches including pen-and-ink, collage, digital media, screen printing, risograph printing, and sculpture. She is inspired by literary fiction, daily encounters, family relationships, and animals. She’s interested in exploring alternative approaches to complex storytelling through experimentation with form, process, and materials. Lyssa graduated with a BFA in illustration from California College of the Arts in San Francisco. In 2019, she was awarded the Society of Illustrators Student Award, was shortlisted for the Nami International Picture Book Concours and was an Art and Design intern with Penguin Random House Young Readers Design Group. She lives and works in Las Vegas and is currently producing a book with Red Fox Literary for publication."
+        ],
+        "website": "https://www.lizzamond.com/",
+        "ig": "https://instagram.com/lizzamond"
+      },
+      {
+        "name": "Yasmina Chavez",
+        "photo": "./images/episode-6/yasmina.jpg",
+        "bio": [
+          "Yasmina Chavez is a time-based media artist and curator who lives and works in Las Vegas, Nevada. She received her BFA in photography from the University of Nevada Las Vegas in 2011 and MFA in Electronic Integrated Arts from Alfred University in New York in 2016. Chavez works across disciplinary boundaries - video and sound installations, experimental documentary video, design of custom systems for cinematography, dance choreography, poetry, printmaking, and performance art. Chavez’ practice explores individual/social identities expressed through different rhythms of time and idiosyncratic relationships to everyday life. She creates openings into enigmas and society’s structural quandaries.",
+          "Chavez has exhibited nationally and internationally and has been a featured artist in media-based festivals including the 2018 Vibrant Digit in Shenyang China, 2013 Life Is Beautiful festival, 2012 and 2014 London Biennale Las Vegas satellite exhibits, and the Off the Strip new genres festival in 2010. In 2011, she co-founded and co-curated 5th Wall Gallery in downtown Las Vegas and is a recurring performer in R.A.D.A.R. L.V. – a Vegas-based bi-monthly performance art event established in 2018. Her fifth solo exhibit, The Suchness of Light–an abstract photo series–was exhibited at two Clark County libraries in 2019 & 2020"
+        ],
+        "website": "https://www.youtube.com/user/YasminaChavez",
+        "ig": ""
       }
     ]
   }

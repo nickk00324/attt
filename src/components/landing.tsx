@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "styled-components"
+import landing from "../images/landing_photo.png"
 import pic1 from "../images/me_and_mr_husky.jpg"
 import pic2 from "../images/rip_mr_husky.jpg"
 
@@ -36,8 +37,8 @@ const Main = styled.div`
 `
 
 const LandingImage = styled.img`
-  height: 1000px;
-  width: 2000px;
+  height: 100%;
+  width: 100%;
 `
 
 const Landing = () => {
@@ -46,7 +47,7 @@ const Landing = () => {
       {/* <img className="pic1" src={pic1} />
       <div className="quote">"rip mr. husky" - nick kochornswasdi</div>
       <img className="pic2" src={pic2} /> */}
-      <LandingImage src="/vegas.jpeg" />
+      <LandingImage src={landing} />
     </Main>
   )
 }

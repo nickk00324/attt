@@ -26,16 +26,28 @@ const PlayerContainer = styled.div`
   }
 `
 
+const AboutContainer = styled.div``
+
 const About = () => {
   return (
-    <PlayerContainer>
-      <ReactPlayer
-        url="https://vimeo.com/573771362/d74a9505c2"
-        controls
-        width="100%"
-        height="100%"
-      />
-    </PlayerContainer>
+    <AboutContainer>
+      <PlayerContainer>
+        <ReactPlayer
+          url="https://vimeo.com/573771362/d74a9505c2"
+          controls
+          width="100%"
+          height="100%"
+        />
+      </PlayerContainer>
+      <p>
+        ART TALK Talk talk is an art talk show hosted by Beck+Col with nick
+        kochornswasdi. ART TALK Talk talk creates an accessible entry point for
+        those outside of the art world--accessing the art through the artist. As
+        Artists in Residence at UNLV, Beck+Col used ART TALK Talk talk to
+        platform UNLV students and their work while introducing them to LA-based
+        artists being interviewed on the show
+      </p>
+    </AboutContainer>
   )
 }
 

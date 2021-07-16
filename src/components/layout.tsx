@@ -38,21 +38,7 @@ const Layout = (props: any) => {
         <source src={bgVid} type="video/webm" />
       </video>
       <main>{props.children}</main>
-      <Footer>
-        <p>
-          email me <a href="mailto:nickkochornswasdi@gmail.com">here</a>
-        </p>
-        <p>
-          Icons made by{" "}
-          <a href="https://www.flaticon.com/authors/freepik" title="Freepik">
-            Freepik
-          </a>{" "}
-          from{" "}
-          <a href="https://www.flaticon.com/" title="Flaticon">
-            www.flaticon.com
-          </a>
-        </p>
-      </Footer>
+      <Footer></Footer>
     </ThemeProvider>
   )
 }

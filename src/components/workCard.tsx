@@ -13,12 +13,7 @@ const Card = styled.div`
     width: 100%;
   }
   .img-holder {
-    height: 230px;
     overflow: hidden;
-
-    @media only screen and (max-width: 800px) {
-      height: 150px;
-    }
   }
 `
 

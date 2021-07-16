@@ -2,13 +2,16 @@ html,
 body {
   max-width: 1440px;
   margin: 0 auto;
-  font-family: "Comic Neue", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: white;
   letter-spacing: 0.1rem;
 }
 
 body {
   padding: 0 20px;
+  background-image: url("../../static/bg.png");
+  background-size: cover;
+  background-position: center;
 }
 
 @media only screen and (max-width: 1480px) {
