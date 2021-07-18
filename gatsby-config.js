@@ -4,7 +4,7 @@ module.exports = {
     description: `a fun art talk show`,
     author: `nickk`,
   },
-  pathPrefix: "attt",
+  // pathPrefix: "attt",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
